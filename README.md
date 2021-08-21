@@ -1,16 +1,24 @@
 ![Screenshot 2021-08-21 174020](https://user-images.githubusercontent.com/59795901/130321310-02322f36-fa93-4280-838a-3b105a76d60f.png)
 
+
 <h1 align="center">Hi 👋, I'm prabhat upadhyay</h1>
+
 <h3 align="center">A passionate machine & Deep learning developer from India</h3>
 
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatu786&show_icons=true&locale=en" alt="prabhatu786" /></p>
+<h1 align="center"> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatu786&show_icons=true&locale=en" alt="prabhatu786" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatu786&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatu786" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhatu786" alt="prabhatu786" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhatu786" alt="prabhatu786" /></a> </p></h1>
+
+
+To place my self in such an Environment where there are ample of opportunities to grow and to learn and excel. Render my services with Sincere Dedication and Honesty and learn as many Good qualities as possible
+
+## Experience
+### Designation :Machine Learning Intern
+### Company name: Grroom
 
 - 🔭 I’m worked as Machine learning intern on  [http://grroom.in/](http://grroom.in/)
-
 - 🌱 I’m currently learning **Natural Language Programing**
 
 - 📫 How to reach me **prabhatu786@gmail.com**
