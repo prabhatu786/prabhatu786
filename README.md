@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm prabhat upadhyay</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate machine & Deep learning developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatu786&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatu786" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhatu786" alt="prabhatu786" /></a> </p>
+
+- 🔭 I’m worked on Machine learning intern [http://grroom.in/](http://grroom.in/)
+
+- 🌱 I’m currently learning **Natural Language Programing**
+
+- 📫 How to reach me **prabhatu786@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,4 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhatu786&show_icons=true&locale=en&layout=compact" alt="prabhatu786" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatu786&show_icons=true&locale=en" alt="prabhatu786" /></p>
-
