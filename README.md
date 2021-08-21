@@ -1,6 +1,9 @@
+![Screenshot 2021-08-21 174020](https://user-images.githubusercontent.com/59795901/130321310-02322f36-fa93-4280-838a-3b105a76d60f.png)
 
 <h1 align="center">Hi 👋, I'm prabhat upadhyay</h1>
 <h3 align="center">A passionate machine & Deep learning developer from India</h3>
+
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatu786&show_icons=true&locale=en" alt="prabhatu786" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatu786&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatu786" /> </p>
 
@@ -29,4 +32,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatu786&show_icons=true&locale=en" alt="prabhatu786" /></p>
+
