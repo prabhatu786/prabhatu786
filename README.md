@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhatu786" alt="prabhatu786" /></a> </p>
 
-- 🔭 I’m worked on Machine learning intern [http://grroom.in/](http://grroom.in/)
+- 🔭 I’m worked as Machine learning intern on  [http://grroom.in/](http://grroom.in/)
 
 - 🌱 I’m currently learning **Natural Language Programing**
 
