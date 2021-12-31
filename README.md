@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm prabhat upadhyay</h1>
 
-<h3 align="center">A passionate machine & Deep learning developer from India</h3>
+<h3 align="center">A passionate machine & Deep learning developer  as well as Android Developer from India</h3>
 
 <h1 align="center"> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatu786&show_icons=true&locale=en" alt="prabhatu786" /></p>
 
