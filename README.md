@@ -1,7 +1,7 @@
 ![Screenshot 2021-08-21 174020](https://user-images.githubusercontent.com/59795901/130321310-02322f36-fa93-4280-838a-3b105a76d60f.png)
 
 
-<h1 align="center">Hi 👋, I'm prabhat upadhyay</h1>
+<h1 align="center">Hi<img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm prabhat upadhyay</h1>
 
 <h3 align="center">A passionate machine & Deep learning developer  as well as Android Developer from India</h3>
 
