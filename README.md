@@ -10,17 +10,16 @@
 
 <h3>To place my self in such an Environment where there are ample of opportunities to grow and to learn and excel. Render my services with Sincere Dedication and Honesty and learn as many Good qualities as possible</h3>
 
-## Experience
-###  Current Designation : Android Developer<br><h3> Company name: Ivan Digital Solutions</h3>.
+## Experience.
+###  Current Designation : Android Developer<br><h3> Company name: Ivan Digital Solutions</h3>
  
  
 
 - 🔭 I’m worked as Machine learning intern on  [http://grroom.in/](http://grroom.in/)
 - 🌱 I’m currently learning **Android Development**
-
 - 📫 How to reach me **prabhatu786@gmail.com**
-
-- 📄 Know about my experiences [Prabhat's Resume.pdf](https://github.com/prabhatu786/prabhatu786/files/7025459/Prabhat.s.Resume.pdf)
+- 📄 Know about my experiences [Prabhat's Resume.pdf](https://github.com/prabhatu786/prabhatu786/files/7025459/Prabhat.s.Resume.pdf)<br>
+ 
 
  <h1 align="left"> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatu786&show_icons=true&locale=en" alt="prabhatu786" /></p>
 
