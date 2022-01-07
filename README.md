@@ -15,7 +15,7 @@
 ### Company name: Grroom
 
 - 🔭 I’m worked as Machine learning intern on  [http://grroom.in/](http://grroom.in/)
-- 🌱 I’m currently learning **Natural Language Programing**
+- 🌱 I’m currently learning **Android Development**
 
 - 📫 How to reach me **prabhatu786@gmail.com**
 
