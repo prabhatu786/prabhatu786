@@ -5,11 +5,6 @@
 
 <h3 align="center">A passionate machine & Deep learning developer  as well as Android Developer from India</h3>
 
-<h1 align="center"> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatu786&show_icons=true&locale=en" alt="prabhatu786" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatu786&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatu786" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhatu786" alt="prabhatu786" /></a> </p></h1>
 
 
 To place my self in such an Environment where there are ample of opportunities to grow and to learn and excel. Render my services with Sincere Dedication and Honesty and learn as many Good qualities as possible
@@ -24,6 +19,13 @@ To place my self in such an Environment where there are ample of opportunities t
 - 📫 How to reach me **prabhatu786@gmail.com**
 
 - 📄 Know about my experiences [Prabhat's Resume.pdf](https://github.com/prabhatu786/prabhatu786/files/7025459/Prabhat.s.Resume.pdf)
+
+ <h1 align="left"> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatu786&show_icons=true&locale=en" alt="prabhatu786" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatu786&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatu786" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhatu786" alt="prabhatu786" /></a> </p></h1>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/prabhat-upadhyay-6b69471a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabhat-upadhyay-6b69471a1/" height="30" width="40" /></a>
