@@ -11,8 +11,9 @@
 <h3>To place my self in such an Environment where there are ample of opportunities to grow and to learn and excel. Render my services with Sincere Dedication and Honesty and learn as many Good qualities as possible</h3>
 
 ## Experience
-### Designation :Machine Learning Intern
-### Company name: Grroom
+###  Current Designation : Android Developer<br><h3> Company name: Ivan Digital Solutions</h3>.
+ 
+ 
 
 - 🔭 I’m worked as Machine learning intern on  [http://grroom.in/](http://grroom.in/)
 - 🌱 I’m currently learning **Android Development**
