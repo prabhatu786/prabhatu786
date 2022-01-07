@@ -3,12 +3,12 @@
 
 <h1 align="center">Hi<img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm prabhat upadhyay</h1>
 
-<h3 align="center">A passionate machine & Deep learning developer  as well as Android Developer from India</h3>
-<h3 align="center">¯\_(ツ)_/¯<br>
+<h3 align="center">A passionate machine & Deep learning developer  as well as Android Developer from India<h3 align="center">¯\_(ツ)_/¯</h3>
 
 
 
-<h3To place my self in such an Environment where there are ample of opportunities to grow and to learn and excel. Render my services with Sincere Dedication and Honesty and learn as many Good qualities as possible<h3>
+
+<h3>To place my self in such an Environment where there are ample of opportunities to grow and to learn and excel. Render my services with Sincere Dedication and Honesty and learn as many Good qualities as possible</h3>
 
 ## Experience
 ### Designation :Machine Learning Intern
