@@ -32,11 +32,12 @@
 </a><br>
 
 
-### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=prabhatu786.visitor-badge&left_color=blue&right_color=yellow)
-<br />
-
-[![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=prabhatu786&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/NoobMahbub/github-readme-activity-graph)
+ <h2 align='center'><i><a href="https://github.com/prabhatu786/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/prabhatu786/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=prabhatu786&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
  
 <h3 align="left">Languages and Tools:</h3>
 
